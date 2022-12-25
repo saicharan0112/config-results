@@ -1,0 +1,730 @@
+
+*****
+***** Welcome to the Xyce(TM) Parallel Electronic Simulator
+*****
+***** This is version Xyce DEVELOPMENT-202212040732-(Public_Release-7.6.0-16-g7ac86b45)-opensource
+***** Date: Sat Dec 24 23:33:49 UTC 2022
+
+
+***** Executing netlist tempsenseInst_error_sim_60.sp
+
+***** Reading and parsing netlist...
+Netlist warning in file tempsenseInst_error_sim_60.sp at or near line 3
+ Unrecognized .OPTIONS package or parameter AUTOSTOP will be ignored
+Netlist warning: No print specified
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_4:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_4:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_4:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_4:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_48:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_48:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_48:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_48:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_5:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_5:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_5:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_5:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_27:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_27:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_27:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_27:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_49:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_49:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_49:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_49:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_16:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_16:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_16:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_16:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_6:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_6:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_6:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_6:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_39:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_39:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_39:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_39:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_28:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_28:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_28:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_28:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_17:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_17:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_17:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_17:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_7:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_7:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_7:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_7:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_29:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_29:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_29:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_29:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_18:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_18:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_18:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_18:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_8:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_8:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_8:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_8:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_19:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_19:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_19:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Model card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_19:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80:
+ Given pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_9:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_9:X0:SKY130_FD_PR__NFET_01V8__MODEL.89: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_9:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 21474
+ Device model
+ XI1:XSKY130_FD_SC_HD__INV_1_9:X1:SKY130_FD_PR__PFET_01V8_HVT__MODEL.80: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X0:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X0:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X1:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X1:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X2:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X2:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X3:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X3:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X4:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X4:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X5:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X5:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 52830
+ Device model XI1:XSLC_0:X6:SKY130_FD_PR__PFET_01V8_HVT__MODEL.197: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 52830
+ Device model XI1:XSLC_0:X6:SKY130_FD_PR__PFET_01V8_HVT__MODEL.197: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X7:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X7:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X8:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X8:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 50418
+ Device model XI1:XSLC_0:X9:SKY130_FD_PR__PFET_01V8_HVT__MODEL.188: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 50418
+ Device model XI1:XSLC_0:X9:SKY130_FD_PR__PFET_01V8_HVT__MODEL.188: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model XI1:XSLC_0:X10:SKY130_FD_PR__NFET_01V8__MODEL.89: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8__tt.pm3.spice
+ at or near line 23884
+ Device model XI1:XSLC_0:X10:SKY130_FD_PR__NFET_01V8__MODEL.89: Given pbswgd
+ is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X11:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X11:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X12:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X12:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X13:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X13:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X14:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X14:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X15:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Model card
+ specifies BSIM4 version 4.5 which is older than the oldest version supported
+ in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__nfet_01v8_lvt__tt.pm3.spice
+ at or near line 23959
+ Device model XI1:XSLC_0:X15:SKY130_FD_PR__NFET_01V8_LVT__MODEL.87: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 52830
+ Device model XI1:XSLC_0:X16:SKY130_FD_PR__PFET_01V8_HVT__MODEL.197: Model
+ card specifies BSIM4 version 4.5 which is older than the oldest version
+ supported in Xyce (4.6.1).  Using oldest version available.
+ 
+Netlist warning in file
+ /home/alex/miniconda3/share/pdk/sky130A/libs.tech/ngspice/corners/../../../libs.ref/sky130_fd_pr/spice/sky130_fd_pr__pfet_01v8_hvt__tt.pm3.spice
+ at or near line 52830
+ Device model XI1:XSLC_0:X16:SKY130_FD_PR__PFET_01V8_HVT__MODEL.197: Given
+ pbswgd is less than 0.1. Pbswgd is set to 0.1
+Maximum warning count has been exceeded and will no longer be displayed
+***** Setting up topology...
+
+***** Device Count Summary ...
+       C level 1 (Capacitor)                  2002
+       M level 14 (BSIM4)                      129
+       V level 1 (Independent Voltage Source)    9
+       -------------------------------------------
+       Total Devices                          2140
+***** Setting up matrix structure...
+***** Number of Unknowns = 534
+***** Initializing...
+
+***** Beginning DC Operating Point Calculation...
+
+DC Operating Point Failed.  Exiting transient loop
+
+***** Solution Summary *****
+	Number Successful Steps Taken:		0
+	Number Failed Steps Attempted:		1
+	Number Jacobians Evaluated:		51
+	Number Linear Solves:			51
+	Number Failed Linear Solves:		25
+	Number Residual Evaluations:		155
+	Number Nonlinear Convergence Failures:	1
+	Total Residual Load Time:		0.043282 seconds
+	Total Jacobian Load Time:		0.00510931 seconds
+	Total Linear Solution Time:		0.00695038 seconds
+
+
+ ***** Measure Functions ***** 
+
+PERIOD = FAILED with targ = not found and trig = not found
+
+POWER = FAILED
+Measure Start Time= 1.000000e-05	Measure End Time= 7.260000e-02
+
+
+***** Total Simulation Solvers Run Time: 0.073107 seconds
+***** Total Elapsed Run Time:            3.03375 seconds
+*****
+***** End of Xyce(TM) Simulation
+*****
+
+Timing summary of 1 processor
+                 Stats                   Count       CPU Time              Wall Time
+---------------------------------------- ----- --------------------- ---------------------
+Xyce                                         1        1.659 (100.0%)        3.034 (100.0%)
+  Analysis                                   1        0.073 ( 4.39%)        0.073 ( 2.40%)
+    Transient                                1        0.073 ( 4.39%)        0.073 ( 2.40%)
+      Nonlinear Solve                        1        0.072 ( 4.31%)        0.072 ( 2.36%)
+        Residual                           155        0.044 ( 2.62%)        0.044 ( 1.44%)
+        Jacobian                            51        0.005 ( 0.31%)        0.005 ( 0.17%)
+        Linear Solve                        51        0.007 ( 0.42%)        0.007 ( 0.23%)
+      Failed DCOP Steps                      1        0.000 (<0.01%)        0.000 (<0.01%)
+  Netlist Import                             1        1.551 (93.46%)        2.925 (96.42%)
+    Parse Context                            1        0.932 (56.17%)        1.890 (62.31%)
+    Distribute Devices                       1        0.590 (35.58%)        0.985 (32.48%)
+    Verify Devices                           1        0.000 (<0.01%)        0.000 (<0.01%)
+    Instantiate                              1        0.020 ( 1.20%)        0.040 ( 1.31%)
+  Late Initialization                        1        0.018 ( 1.08%)        0.018 ( 0.59%)
+    Global Indices                           1        0.010 ( 0.58%)        0.010 ( 0.32%)
+  Setup Matrix Structure                     1        0.004 ( 0.26%)        0.004 ( 0.14%)
+
